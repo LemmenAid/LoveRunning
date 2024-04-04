@@ -1,3 +1,8 @@
+I started this project in GitPod because Codeanywhere didn't work for two days.
+I copied the code into this repo to be able to finish the walkthrough Love Running project.
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome Karlan Lemmen,
